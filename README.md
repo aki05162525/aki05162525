@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 Currently learning Next.js and Spring
+- 🌱 Currently learning Next.js and Hono
 - 🎓 Majoring in Economics at YNU.
 
 ### Languages:
